@@ -34,7 +34,7 @@
 
 🇺🇸 [English](README.md)
 
-🇨🇳 [中文](.github/README_zh.md)
+🇨🇳 [中文](README_zh.md)
 
 ## License
 
