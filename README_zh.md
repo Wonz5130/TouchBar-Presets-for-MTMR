@@ -4,7 +4,7 @@
 
 ## 展示
 
-![触控栏快照2021-08-13 下午6.53.29](https://cdn.jsdelivr.net/gh/Wonz5130/My-Private-ImgHost/img/%E8%A7%A6%E6%8E%A7%E6%A0%8F%E5%BF%AB%E7%85%A72021-08-13%20%E4%B8%8B%E5%8D%886.53.29.png)
+![touchbar](touchbar.png)
 
 ## 特性
 
